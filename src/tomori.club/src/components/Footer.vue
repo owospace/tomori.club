@@ -15,13 +15,13 @@
 
                 <div class="d-flex flex-column justify-content-start align-items-start col-6 col-md-3 col-sm-6">
                     <h5 class="footerTitle mb-1 text-left">Socials</h5>
-                    <a class="footerText btn btn-link text-body text-decoration-none p-0 text-left" href="https://spce.moe/discord"><b>- Discord</b></a>
+                    <a class="footerText btn btn-link text-body text-decoration-none p-0 text-left" href="https://spce.moe"><b>- Discord</b></a>
                 </div>
 
                 <div class="d-flex flex-column justify-content-start align-items-start col-6 col-md-4 col-sm-6">
                     <h5 class="footerTitle mb-1 text-left">Notices</h5>
-                    <a class="footerText btn btn-link text-body text-decoration-none p-0 text-left" href="/rules"><b>- Apply for T.C</b></a>
-                    <a class="footerText btn btn-link text-body text-decoration-none p-0 text-left" href="/privacy"><b>- Privacy Policy</b></a>
+                    <a class="footerText btn btn-link text-body text-decoration-none p-0 text-left" href="#"><b>- Apply for T.C</b></a>
+                    <a class="footerText btn btn-link text-body text-decoration-none p-0 text-left" href="#"><b>- Privacy Policy</b></a>
                 </div>
             </div>
         </div>
@@ -31,7 +31,7 @@
     <div class="container">
       <div class="row">
         <div class="my-1 text-body">
-          <h5> 🌸 <a href="mailto:space@tomori.club" target="_blank" class="text-body">space@tomori.club</a></h5>
+          <h5> 🌸 <a href="https://spce.moe" target="_blank">made with <3 at spce.moe</a></h5>
 
                 <h3 class="d-flex"></h3>
                 <h3 class="d-flex"></h3>
