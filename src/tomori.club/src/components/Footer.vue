@@ -31,7 +31,7 @@
     <div class="container">
       <div class="row">
         <div class="my-1 text-body">
-          <h5> 🌸 <a href="https://spce.moe" target="_blank">made with <3 at spce.moe</a></h5>
+          <h5> 🌸 <a href="https://spce.moe" target="_blank">made with &lt;3 at spce.moe</a></h5>
 
                 <h3 class="d-flex"></h3>
                 <h3 class="d-flex"></h3>
